@@ -101,11 +101,6 @@ token-2022-transfer-hook/
 
 ------
 
- ## 📽️ Live Demo 
- Watch the full demo here: [Click to view demo](https://drive.google.com/file/d/1qtgF4ufwyQsSoSGovM1UurCPB3NMJJXJ/view?usp=drive_link)
-
-------
-
 ------
 📝 Troubleshooting
 ------
